@@ -3,18 +3,18 @@
 A complete n8n workflow that automates order processing from start to finish, with human-in-the-loop email validation and multi-destination storage.
 
 ---
-💼 Business use case
+## 💼 Business use case
 
 This workflow is designed for businesses that process orders manually and need a reliable approval step before final processing.
 
 It can help automate repetitive tasks such as:
 
-Reading and processing new orders automatically
-Generating clear AI-powered order summaries
-Requesting human approval before completing an action
-Creating standardized documentation
-Storing validated data across multiple business tools
-Updating order statuses automatically
+* Reading and processing new orders automatically
+* Generating clear AI-powered order summaries
+* Requesting human approval before completing an action
+* Creating standardized documentation
+* Storing validated data across multiple business tools
+* Updating order statuses automatically
 
 The workflow can be adapted to different business processes such as order management, lead validation, support requests, internal approvals or document processing.
 
